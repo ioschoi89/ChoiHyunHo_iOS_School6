@@ -29,4 +29,9 @@ swift 기초문법-01
  - /* 주석 */ : 여러줄 주석처리
  - Quik help : Option + Command + /
   - 외부에서 보기 쉽게 내용 담을 수 있는 방법 
+ 
+### 실습 예시
+![](./img/class.png)
+
+
       
