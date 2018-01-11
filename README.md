@@ -9,7 +9,7 @@ Choi Hyun Ho
 
 3.Swift 프로그래밍
 --------------------------------------
-1. 자주 쓰이는 단축키
+1. [자주 쓰이는 단축키](https://github.com/ioschoi89/ChoiHyunHo_iOS_School6/ClassStudy/HotKey)
 2. blank
 
 4.연락처
