@@ -27,7 +27,7 @@ Choi Hyun Ho<a href="url"><img src="./Outline_img/apple.png" align="right" heigh
 기타
 -------------------------------------
 ##### [xCode 자주 쓰이는 단축키](./ClassStudy/HotKey/README.md)
-
+#### [github 사용하기](./ClassStudy/Github_Study)
 4.연락처
 --------------------------------------
 * Tel : 010-9162-6109
