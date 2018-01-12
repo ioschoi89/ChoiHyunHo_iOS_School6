@@ -1,4 +1,4 @@
-Choi Hyun Ho     
+Choi Hyun Ho<a href="url"><img src="./Outline_img/apple.png" align="right" height="48" ></a>
 ===============================
 
 1.팀 프로젝트
