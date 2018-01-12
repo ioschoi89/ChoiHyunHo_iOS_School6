@@ -31,7 +31,14 @@ swift 기초문법-01
   - 외부에서 보기 쉽게 내용 담을 수 있는 방법 
  
 ### 실습 예시
+1. 클래스 선언
 ![class](../img/class.png)
+
+2. 클래스 사용하기
+![class2](../img/class2.png)
+
+3. 실행 결과 화면
+![resultclass](../img/resultclass.png)
 
 
 
