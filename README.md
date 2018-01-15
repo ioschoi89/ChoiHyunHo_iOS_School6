@@ -26,7 +26,7 @@ Choi Hyun Ho<a href="./README.md"><img src="./Outline_img/apple.png" align="righ
 ### Exam
 
 1. [함수 만들기 실습-도형의 둘레와 넓이 부피](./Practice/FunctionExam01.swift)
-2. [함수 만들기 실습 - 문제 풀기](./Practice/Contents.swift)
+2. [함수 만들기 실습 - 문제 풀기](./Practice/180115/ViewController.swift)
 
 기타
 -------------------------------------
