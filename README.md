@@ -17,12 +17,16 @@ Choi Hyun Ho<a href="./README.md"><img src="./Outline_img/apple.png" align="righ
 3.Swift 프로그래밍
 -------------------------------------
 ### SWIFT 기초 문법
-1. [변수&함수 선언과 클래스 사용법](./ClassStudy/180111/README.md)
-2. [180115-내용]()
+1. [기초 문법](./ClassStudy/180111/README.md)
+2. [변수와 함수_기초]()
 3. [blank]()
 4. [blank]()
 5. [blank]()
 
+### Exam
+
+1. [함수 만들기 실습-도형의 둘레와 넓이 부피](./Practice/FunctionExam01.swift)
+2. [함수 만들기 실습 - 문제 풀기](./Practice/functionExam03.playground)
 
 기타
 -------------------------------------
