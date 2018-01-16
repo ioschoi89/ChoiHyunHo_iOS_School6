@@ -18,7 +18,7 @@ Choi Hyun Ho<a href="./README.md"><img src="./Outline_img/apple.png" align="righ
 -------------------------------------
 ### SWIFT 기초 문법
 1. [기초 문법](./ClassStudy/180111/README.md)
-2. [변수와 함수_기초]()
+2. [변수와 함수_기초](./ClassStudy/180115/README.md)
 3. [blank]()
 4. [blank]()
 5. [blank]()
