@@ -28,8 +28,8 @@ Choi Hyun Ho<a href="./README.md"><img src="./Outline_img/apple.png" align="righ
 1. [함수 만들기 실습-도형의 둘레와 넓이 부피](./Practice/FunctionExam01.swift)
 2. [함수 만들기 실습 - 문제 풀기](./Practice/180115/ViewController.swift)
 3. [조건문 연습 문제_if문](./Practice/180116/Examif/Examif/ViewController.swift)
-4. [조건문 연습 문제_switch문_01](./Practice/180116/Examswitch/Contents.swift)
-5. [조건문 연습 문제_switch문_02](./Practice/180116/Examswitch02/Contents.swift)
+4. [조건문 연습 문제_switch문_01](./Practice/180116/Examswitch/Examswitch/ViewController.swift)
+5. [조건문 연습 문제_switch문_02](./Practice/180116/Examswitch02/Examswitch02/ViewController.swift)
 
 기타
 -------------------------------------
