@@ -20,7 +20,7 @@ Choi Hyun Ho<a href="./README.md"><img src="./Outline_img/apple.png" align="righ
 1. [기초 문법](./ClassStudy/180111/README.md)
 2. [변수와 함수_기초](./ClassStudy/180115/README.md)
 3. [조건문](./ClassStudy/180116/README.md)
-4. [blank]()
+4. [반복문]()
 5. [blank]()
 
 ### Exam
@@ -30,6 +30,7 @@ Choi Hyun Ho<a href="./README.md"><img src="./Outline_img/apple.png" align="righ
 3. [조건문 연습 문제_if문](./Practice/180116/Examif/Examif/ViewController.swift)
 4. [조건문 연습 문제_switch문_01](./Practice/180116/Examswitch/Examswitch/ViewController.swift)
 5. [조건문 연습 문제_switch문_02](./Practice/180116/Examswitch02/Examswitch02/ViewController.swift)
+6. [반복문 연습 문제_01](./Practice/180118/Examfor/Examfor/ViewController.swift)
 
 기타
 -------------------------------------
