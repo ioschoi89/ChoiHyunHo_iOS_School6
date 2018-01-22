@@ -1,18 +1,18 @@
 Collection Type
 ================
 
-###Collection Type
+### Collection Type
  - 배열, 집합, 사전 기본형식을 제공 
  - 변수 (var)에 할당하면 collection을 변경 가능하다. 추가, 제거, 수정 가능 
  - 상수 (let)에 할당하면 변경 불가
 
-###배열(Array)
+### 배열(Array)
  - 번호(인덱스)와 번호에 대응하는 데이터들로 이루어진 자료구조
  - 일반적으로 같은 종류의 데이터들이 순차적으로 저장 
  - 값의 번호가 곧 배열의 시작점으로 부터 값이 저장되어 있는 상대적인 위치가 된다.
  - Any 사용 하면 다른타입도 넣을 수 있지만 굳이 활용하는 경우는 많지 않음
 
-###Array 기본 문법
+### Array 기본 문법
  - Array<Element>로 Array Type을 나타낸다
  - Element는 배열에 저장할 수 있는 타입이다
  - 축약 문법으로 [Element]로 표현 할 수 있다.
@@ -26,7 +26,7 @@ Collection Type
  - shift + command + o.  Or ctrl + command 클릭
 
 
-###Set
+### Set
  - 순서와 중복이 없는 자료구조
  - 데이터가 유일하게 하나씩 담겨있다.
  - var someInts: Set<Int> = Set<Int>( )
@@ -36,7 +36,7 @@ Collection Type
  - set을 정렬하면 리턴값은 array
  - set의 기능 :  교집합, 교집합의 여집합, 합집합, 차집합
 
-###Dictionary
+### Dictionary
  - 순서가 정해져 있지 않은 데이터에 키값을 통해 구분할 수 있는 자료구조
  - 항목의 순서가 중요치 않고 key값을 통해서 데이터를 접근할 때 사용.
  - 축약 문법 : [key: value] 
