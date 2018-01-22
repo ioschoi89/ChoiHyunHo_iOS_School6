@@ -90,8 +90,10 @@ primeNum(num: 3)
 //{
 //
 //}
-
-
+var someInts:[Int] = [1,2,3,4]
+print(someInts)
+someInts = []
+print(someInts)
 
 
 
