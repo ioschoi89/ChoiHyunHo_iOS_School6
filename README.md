@@ -22,6 +22,8 @@ Choi Hyun Ho<a href="./README.md"><img src="./Outline_img/apple.png" align="righ
 3. [조건문](./ClassStudy/180116/README.md)
 4. [반복문]()
 5. [Collection Type](./ClassStudy/180119/README.md)
+6. [Class & Struct](./ClassStudy/180122/README.md)
+7. [Subclassing & Initializer](./ClassStudy/180123/READEME.md)
 
 ### Exam
 
