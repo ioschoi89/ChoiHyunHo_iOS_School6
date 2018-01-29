@@ -35,6 +35,7 @@ Choi Hyun Ho<a href="./README.md"><img src="./Outline_img/apple.png" align="righ
 6. [반복문 연습 문제](./Practice/180118/Examfor/Examfor/ViewController.swift)
 7. [Array 활용 예제](./Practice/180119/ExamArray/ExamArray/ViewController.swift)
 8. [Array 연습 문제]()
+9. [UI 기초 예제_View다루기](./Practice/180129/TestUi02/TestUi02/ViewController.swift)
 
 기타
 -------------------------------------
