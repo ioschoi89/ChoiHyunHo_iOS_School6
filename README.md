@@ -10,12 +10,12 @@ Choi Hyun Ho<a href="./README.md"><img src="./Outline_img/apple.png" align="righ
 1-2.개인 프로젝트
 -----------------
 
-1.[자판기]()
+1.[자판기] \__ 수정 중
 
 2.프로그래밍 개론
 -----------------
 
-1.	[프로그래밍이란?]()
+1.	[프로그래밍이란?]() - 수정 중
 2.	[객체지향프로그래밍](./ClassStudy/180110/README.md)
 
 3.Swift 프로그래밍
@@ -26,7 +26,7 @@ Choi Hyun Ho<a href="./README.md"><img src="./Outline_img/apple.png" align="righ
 1.	[기초 문법](./ClassStudy/180111/README.md)
 2.	[변수와 함수_기초](./ClassStudy/180115/README.md)
 3.	[조건문](./ClassStudy/180116/README.md)
-4.	[반복문]()
+4.	[반복문](./ClassStudy/for/README.md)
 5.	[Collection Type](./ClassStudy/180119/README.md)
 6.	[Class & Struct](./ClassStudy/180122/README.md)
 7.	[Subclassing & Initializer](./ClassStudy/180123/README.md)
